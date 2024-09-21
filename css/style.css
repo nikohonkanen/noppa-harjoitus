@@ -1,0 +1,14 @@
+#container {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#dice {
+    width: 100px;
+    height: 100px;
+}
+
+#dice img {
+    width: 100%;
+    height: 100%;
+}
